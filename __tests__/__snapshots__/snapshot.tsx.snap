@@ -19,7 +19,7 @@ exports[`renders homepage unchanged 1`] = `
       <p
         class="description"
       >
-        Welocome to my new app 2 
+        Welocome to my new app 3 
         <code>
           pages/index.js
         </code>
